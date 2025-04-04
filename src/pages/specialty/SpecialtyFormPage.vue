@@ -8,6 +8,6 @@ import { DefaultTemplate } from '@/template'
       <h1>Specilaty Form</h1>
     </template>
 
-    <template #default> Meu formulário de especialidade ficará aqui ;) </template>
+    <template #default> Meu formulário dgdgfgde especialidade ficará aqui ;) </template>
   </default-template>
 </template>
